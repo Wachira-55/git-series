@@ -1,6 +1,5 @@
 this is our first file and first commit
 
+this is a change to our code
 
-This is our code.
-
-I love git
+I love merging and Branchings
